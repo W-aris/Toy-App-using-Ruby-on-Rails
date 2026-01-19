@@ -1,24 +1,56 @@
-# README
+# 🚀 Toy App — Ruby on Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A **lightweight Toy Application built with Ruby on Rails** to explore the fundamentals of Rails development, RESTful design, and MVC architecture.  
+This project follows the philosophy of the *Ruby on Rails Tutorial* and is meant purely for **learning and experimentation**.
 
-Things you may want to cover:
+---
 
-* Ruby version
+## ✨ What is This App?
 
-* System dependencies
+The **Toy App** is a simple, Twitter-style Rails application that allows:
+- Creating **Users**
+- Posting **Microposts**
+- Understanding how resources interact in Rails
 
-* Configuration
+> ⚠️ This app is intentionally minimal. The focus is on **learning Rails concepts**, not building a production-ready product.
 
-* Database creation
+---
 
-* Database initialization
+## 🧠 Why This Project?
 
-* How to run the test suite
+Rails scaffolding is powerful but can feel like magic.  
+This project helps you:
+- See Rails in action quickly
+- Understand **URLs, controllers, models, and views**
+- Learn **RESTful routing** and database associations
+- Prepare for building full-scale Rails apps from scratch
 
-* Services (job queues, cache servers, search engines, etc.)
+---
 
-* Deployment instructions
+## 🛠 Tech Stack
 
-* ...
+| Tool | Purpose |
+|-----|--------|
+| **Ruby** | Programming language |
+| **Ruby on Rails** | Web framework |
+| **SQLite3** | Development database |
+| **Bundler** | Dependency management |
+| **Git & GitHub** | Version control |
+
+---
+
+## ⚙️ Setup & Installation
+
+### ✅ Prerequisites
+Make sure you have:
+- Ruby
+- Rails
+- Bundler
+- Git
+
+---
+
+### 📥 Clone the Repository
+```bash
+git clone https://github.com/W-aris/hello_app.git
+cd hello_app
